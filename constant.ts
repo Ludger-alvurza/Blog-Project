@@ -1,0 +1,1 @@
+export const mongo_uri = 'mongodb+srv://ludgerdus2603:VoJGXBJQwucVbwoO@project-blogs.taok7.mongodb.net/?retryWrites=true&w=majority&appName=project-blogs'
